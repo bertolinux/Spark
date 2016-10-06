@@ -1,0 +1,70 @@
+
+Envelope (0): Env[-112.506968 : -112.504872, 45.98186 : 45.983586] MaxX: -112.504872 MaxY: 45.983586 MinX: -112.506968 MinY: 45.98186
+Width: 0.0020959999999945467 Height: 0.0017260000000050013 Area: 3.6176960000010702E-6
+firstEnvelope (0): Env[-112.506968 : -112.504872, 45.98186 : 45.983586] MaxX: -112.504872 MaxY: 45.983586 MinX: -112.506968 MinY: 45.98186
+Width: 0.0020959999999945467 Height: 0.0017260000000050013 Area: 3.6176960000010702E-6 Center: (-112.50592, 45.982723, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (1): Env[-112.519856 : -112.506968, 45.983586 : 45.987772] MaxX: -112.506968 MaxY: 45.987772 MinX: -112.519856 MinY: 45.983586
+Width: 0.012888000000003785 Height: 0.0041859999999971365 Area: 5.394916799997894E-5
+firstEnvelope (1): Env[-112.519856 : -112.504872, 45.98186 : 45.987772] MaxX: -112.504872 MaxY: 45.987772 MinX: -112.519856 MinY: 45.98186
+Width: 0.014983999999998332 Height: 0.005912000000002138 Area: 8.858540800002217E-5 Center: (-112.512364, 45.984815999999995, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (2): Env[-112.504872 : -112.41643, 45.919281 : 45.98186] MaxX: -112.41643 MaxY: 45.98186 MinX: -112.504872 MinY: 45.919281
+Width: 0.08844200000000058 Height: 0.0625789999999995 Area: 0.005534611917999991
+firstEnvelope (2): Env[-112.519856 : -112.41643, 45.919281 : 45.987772] MaxX: -112.41643 MaxY: 45.987772 MinX: -112.519856 MinY: 45.919281
+Width: 0.10342599999999891 Height: 0.06849100000000163 Area: 0.0070837501660000945 Center: (-112.468143, 45.953526499999995, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (3): Env[-112.574945 : -112.519856, 45.987772 : 46.004944] MaxX: -112.519856 MaxY: 46.004944 MinX: -112.574945 MinY: 45.987772
+Width: 0.05508899999999528 Height: 0.017172000000002186 Area: 9.459883080000394E-4
+firstEnvelope (3): Env[-112.574945 : -112.41643, 45.919281 : 46.004944] MaxX: -112.41643 MaxY: 46.004944 MinX: -112.574945 MinY: 45.919281
+Width: 0.1585149999999942 Height: 0.08566300000000382 Area: 0.013578870445000108 Center: (-112.4956875, 45.9621125, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (4): Env[-112.520691 : -112.442664, 42.912313 : 42.913255] MaxX: -112.442664 MaxY: 42.913255 MinX: -112.520691 MinY: 42.912313
+Width: 0.07802700000000584 Height: 9.420000000019968E-4 Area: 7.35014340001613E-5
+firstEnvelope (4): Env[-112.574945 : -112.41643, 42.912313 : 46.004944] MaxX: -112.41643 MaxY: 46.004944 MinX: -112.574945 MinY: 42.912313
+Width: 0.1585149999999942 Height: 3.0926310000000043 Area: 0.4902284029649827 Center: (-112.4956875, 44.4586285, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (5): Env[-103.231695 : -102.096848, 46.852253 : 46.898828] MaxX: -102.096848 MaxY: 46.898828 MinX: -103.231695 MinY: 46.852253
+Width: 1.1348470000000077 Height: 0.04657500000000425 Area: 0.052855499025005186
+firstEnvelope (5): Env[-112.574945 : -102.096848, 42.912313 : 46.898828] MaxX: -102.096848 MaxY: 46.898828 MinX: -112.574945 MinY: 42.912313
+Width: 10.478097000000005 Height: 3.9865150000000042 Area: 41.77109086195507 Center: (-107.33589649999999, 44.905570499999996, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (6): Env[-103.231698 : -102.096839, 46.852006 : 46.898593] MaxX: -102.096839 MaxY: 46.898593 MinX: -103.231698 MinY: 46.852006
+Width: 1.1348589999999916 Height: 0.04658699999999527 Area: 0.052869676232994246
+firstEnvelope (6): Env[-112.574945 : -102.096839, 42.912313 : 46.898828] MaxX: -102.096839 MaxY: 46.898828 MinX: -112.574945 MinY: 42.912313
+Width: 10.478105999999997 Height: 3.9865150000000042 Area: 41.771126740590034 Center: (-107.335892, 44.905570499999996, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (7): Env[-72.135042 : -71.592868, 42.12948 : 42.243211] MaxX: -71.592868 MaxY: 42.243211 MinX: -72.135042 MinY: 42.12948
+Width: 0.5421740000000028 Height: 0.11373100000000136 Area: 0.06166199119400106
+firstEnvelope (7): Env[-112.574945 : -71.592868, 42.12948 : 46.898828] MaxX: -71.592868 MaxY: 46.898828 MinX: -112.574945 MinY: 42.12948
+Width: 40.982077000000004 Height: 4.769348000000001 Area: 195.45778697579604 Center: (-92.0839065, 44.514154000000005, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (8): Env[-112.716565 : -112.649594, 45.257432 : 45.530659] MaxX: -112.649594 MaxY: 45.530659 MinX: -112.716565 MinY: 45.257432
+Width: 0.06697100000000944 Height: 0.27322699999999855 Area: 0.018298285417002482
+firstEnvelope (8): Env[-112.716565 : -71.592868, 42.12948 : 46.898828] MaxX: -71.592868 MaxY: 46.898828 MinX: -112.716565 MinY: 42.12948
+Width: 41.12369700000001 Height: 4.769348000000001 Area: 196.13322203955607 Center: (-92.1547165, 44.514154000000005, NaN) firstEnvelope contains envelope (after expanding): true
+
+
+firstEnvelope contains envelope (before expanding): false
+Envelope (9): Env[-112.853857 : -112.309297, 44.555642 : 45.53022] MaxX: -112.309297 MaxY: 45.53022 MinX: -112.853857 MinY: 44.555642
+Width: 0.5445600000000042 Height: 0.974578000000001 Area: 0.5307161956800046
+firstEnvelope (9): Env[-112.853857 : -71.592868, 42.12948 : 46.898828] MaxX: -71.592868 MaxY: 46.898828 MinX: -112.853857 MinY: 42.12948
+Width: 41.26098900000001 Height: 4.769348000000001 Area: 196.78801536517207 Center: (-92.22336250000001, 44.514154000000005, NaN) firstEnvelope contains envelope (after expanding): true
+
+

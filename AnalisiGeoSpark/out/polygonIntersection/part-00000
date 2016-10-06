@@ -1,0 +1,20 @@
+polygon1: POLYGON ((-112.506968 45.98186, -112.506968 45.983586, -112.504872 45.983586, -112.504872 45.98186, -112.506968 45.98186))
+ Dimension: 2
+ Length: 0.007643999999999096
+ Num Points: 5
+ Area: 3.6176960000010702E-6
+
+polygon2: POLYGON ((-112.520691 42.912313, -112.520691 42.913255, -112.442664 42.913255, -112.442664 42.912313, -112.520691 42.912313))
+ Dimension: 2
+ Length: 0.15793800000001568
+ Num Points: 5
+ Area: 7.35014340001613E-5
+
+polygon2 intesects polygon1: false
+
+polygon3 (interesection between polygon1 and polygon2: POLYGON EMPTY
+ Dimension: 2
+ Length: 0.0
+ Num Points: 0
+ Area: 0.0
+
